@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool_Example", "ThreadPool_Example\ThreadPool_Example.csproj", "{ABB48BCC-8E94-443B-B8E0-FEE18E113776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreExam", "..\..\Visual_studio_workspace\exp_example\2019\SemaphoreExam\SemaphoreExam\SemaphoreExam.csproj", "{EE53E55E-3D14-43BA-A71B-30694D97F9EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreExam", "SemaphoreExam\SemaphoreExam.csproj", "{EE53E55E-3D14-43BA-A71B-30694D97F9EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
